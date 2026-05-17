@@ -1,0 +1,20 @@
+{
+  "architecture": [
+    {
+      "prompt": "explain what an API gateway does",
+      "expected_behavior": "should explain clearly"
+    }
+  ],
+  "general": [
+    {
+      "prompt": "",
+      "expected_behavior": "should respond"
+    }
+  ],
+  "integration": [
+    {
+      "prompt": "what is a webhook",
+      "expected_behavior": "should explain with an example"
+    }
+  ]
+}

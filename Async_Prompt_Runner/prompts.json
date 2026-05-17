@@ -1,0 +1,11 @@
+{
+  "endpoint": "https://httpbin.org/post",
+  "blocklist": ["error", "fail", "invalid", "cannot", "sorry"],
+  "prompts": [
+    "explain what machine learning is",
+    "describe how a REST API works",
+    "what is asynchronous programming",
+    "explain the concept of rate limiting",
+    "what is a message queue"
+  ]
+}
